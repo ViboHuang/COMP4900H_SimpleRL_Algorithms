@@ -36,8 +36,8 @@ python Lightweight_RL_algorithms.py
 
 ### Authors & contact
 
-Author: YiLong Huang
-Email: vibohuang@cmail.carleton.ca
-Course: COMP4900H
-SID: 101187050
+Author: YiLong Huang <br>
+Email: vibohuang@cmail.carleton.ca <br>
+Course: COMP4900H <br>
+SID: 101187050 <br>
 Verison: 1.0
